@@ -1,3 +1,15 @@
+# midas-like things
+*.odb
+*.xml
+midas.log
+
+# compile objects
+*.o
+
+# editor backups
+*~
+*.bak
+
 # Prerequisites
 *.d
 
@@ -30,3 +42,4 @@
 *.exe
 *.out
 *.app
+

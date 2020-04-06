@@ -1,0 +1,7 @@
+
+
+This code-base is to support all of the non-digitizer-based midas
+frontends and other tools needed for DANCE.  It is presumed that this
+will live inside of the midas expertiment directory in a directory like
+'dance_custom'.  If set up in that way, then the links will work.
+Otherwise, well, not so much.
